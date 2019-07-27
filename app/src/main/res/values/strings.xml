@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notifications24Hours</string>
+    <string name="notification_activity_is_shown">Notification Activity is Shown.</string>
+</resources>
